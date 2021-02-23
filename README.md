@@ -1,2 +1,2 @@
 News Feed Panel Size
-550, 350
+760, 410
